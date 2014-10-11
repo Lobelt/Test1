@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jag heter Viktor Friberg.
+=======
+Jag heter Robin Andersson.
+>>>>>>> master
